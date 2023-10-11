@@ -19,9 +19,9 @@ We will actively maintain the code on Github. People with implementation problem
 
 ## List of Folders
 ### data
-We provide three processed datasets, Fdataset, Cdataset and LRSSL. 
-The Fdataset dataset contains 593 drug and 313 diseases, with 1933 associations between them.
-The Cdataset dataset contains 663 drug and 409 diseases, with 2532 associations between them.
+We provide three processed datasets, Fdataset, Cdataset and LRSSL. \
+The Fdataset dataset contains 593 drug and 313 diseases, with 1933 associations between them.\
+The Cdataset dataset contains 663 drug and 409 diseases, with 2532 associations between them.\
 The LRSSL dataset contains 763 drug and 681 diseases, with 3051 associations between them.
 
 
